@@ -68,7 +68,8 @@ are the same as the 24 Nov BUILD.md "Parent finish" section, with these
 25 Nov parameters substituted:
 - competition slug: news-image-20261125
 - repo: https://github.com/Sasikianlarasati/news-image-20261125
-- commit: fc5ea9c0a9fa70fd5fef2052952cd6332cbe4987
+- commit: 026d715033ab3170b7549cd686d8e71fd540c58d (latest pushed HEAD —
+  fc5ea9c entry + BUILD.md on top; use this SHA for submit)
 - title: "25 November 2026: the world in one page"
 - kit dir: ~/workspace/makefun/news-image-kit-20261125 (new — do NOT reuse
   the 23/24 Nov kits)
